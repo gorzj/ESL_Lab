@@ -1,0 +1,8 @@
+
+set_io clk_i 21
+set_io outputs_o[0] 99
+set_io outputs_o[1] 98
+set_io outputs_o[2] 97
+set_io outputs_o[3] 96
+set_io inputs_i[0] 118
+set_io inputs_i[1] 114
